@@ -14,7 +14,7 @@ https://main--transcendent-gecko-62fcf0.netlify.app/
 
 ## Overview
 
-[Project Name] is a web application that allows users to sign up and log in. Users can upload their resumes to their accounts and download them at any time.
+YourHR is a web application that allows users to sign up and log in. Users can upload their resumes to their accounts and download them at any time.
 
 ## Features
 
